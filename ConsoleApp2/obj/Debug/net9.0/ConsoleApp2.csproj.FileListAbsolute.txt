@@ -1,0 +1,14 @@
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.deps.json
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.runtimeconfig.json
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.dll
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net9.0/ConsoleApp2.pdb
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfoInputs.cache
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.AssemblyInfo.cs
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.dll
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/refint/ConsoleApp2.dll
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.pdb
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ConsoleApp2.genruntimeconfig.cache
+/home/zagi/RiderProjects/ConsoleApp2/ConsoleApp2/obj/Debug/net9.0/ref/ConsoleApp2.dll
